@@ -46,7 +46,7 @@ By leveraging these insights and implementing strategic recommendations, Olist S
 and drive sustainable growth in the competitive Brazilian ecommerce landscape.
 
 ## Share
-1. Check out the daashboard on Tableau Public:
+1. Check out the daashboard on Tableau [Public: https://public.tableau.com/views/OLISTSTOREANALYSISPROJECTPIYUSHPRADHAN/DASHBOARD?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link] 
 
 
 
