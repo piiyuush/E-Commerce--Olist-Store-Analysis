@@ -2,7 +2,7 @@
 
 
 
-<img align="right" width="500" height="400" src="https://github.com/piiyuush/E-Commerce--Olist-Store-Analysis/blob/main/Olist.jpg?raw=true">
+<img align="right" width="500" height="400" src="https://github.com/piiyuush/E-Commerce--Olist-Store-Analysis/blob/main/PICS/Olist.jpg?raw=true">
 
 ## PRIMARY OBJECTIVE
 
